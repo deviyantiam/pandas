@@ -1,0 +1,32 @@
+{
+    "0": {
+        "No": 1,
+        "Nama": "Andi",
+        "Usia": 21,
+        "Kota": "Jakarta"
+    },
+    "1": {
+        "No": 2,
+        "Nama": "Budi",
+        "Usia": 22,
+        "Kota": "Bandung"
+    },
+    "2": {
+        "No": 3,
+        "Nama": "Caca",
+        "Usia": 23,
+        "Kota": "Jakarta"
+    },
+    "3": {
+        "No": 4,
+        "Nama": "Deni",
+        "Usia": 24,
+        "Kota": "Bandung"
+    },
+    "4": {
+        "No": 5,
+        "Nama": "Euis",
+        "Usia": 25,
+        "Kota": "Surabaya"
+    }
+}
